@@ -1,0 +1,72 @@
+
+body{
+  background-image: url(background.jpg );
+  background-size: cover;
+}
+header img{
+  width: 30%;
+}
+header h2{
+  color:lime;
+  margin: auto;
+}
+.container{
+  width: 50%;
+  margin:auto;
+}
+header{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  width: auto;
+  background-color: lime;
+  height: 30px;
+
+}
+nav button{
+  padding: inherit;
+  font-size: 60%;
+}
+
+main label{
+  font-size: 150%;
+  margin: auto;
+}
+.TipiMonopattino1 {
+
+  color: #ffff
+}
+.spazzio{
+      width: 20px;
+      height: 20px;
+}
+.TipiMonopattino1 p {
+  margin: auto;
+}
+.carica1{
+  width: 250px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 20px;
+}
+.carica2{
+  width: 350px;
+  height: 20px;
+  background-color: lime;
+  border-radius: 20px;
+}
+.carica3{
+  width: 150px;
+  height: 20px;
+  background-color: red ;
+  border-radius: 20px;
+}
+.spazziobottone{
+  width: 10px;
+  height: 5px;
+}
+.spazzio1{
+  width: 10px;
+  height: 70px;
+}
